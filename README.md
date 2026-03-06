@@ -104,7 +104,6 @@ at the top face. Should match c_mech ≈ 115 m/s.
 ```
 src/
   explicit_solver.py     ← main FOM solver
-  compute_pod.py         ← POD basis extraction (lift-subtracted SVD)
 mesh/
   tube.xdmf
   tube_facets_linear.xdmf
